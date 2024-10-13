@@ -25,7 +25,7 @@ visa
 cisco
 
 
-Week 1 (October 14 - October 20, 2024)
+**Week 1 (October 14 - October 20, 2024)**
 
 System Design
 
@@ -92,7 +92,7 @@ Daily Schedule:
 	•	2 hours: Review and practice design patterns.
 	•	1-2 hours: Solve additional DSA problems or review.
 
-Week 2 (October 21 - October 27, 2024)
+**Week 2 (October 21 - October 27, 2024)**
 
 System Design
 
@@ -149,7 +149,7 @@ Daily Schedule:
 	•	2 hours: Review low-level design concepts.
 	•	1-2 hours: Solve additional DSA problems or review.
 
-Week 3 (October 28 - November 3, 2024)
+**Week 3 (October 28 - November 3, 2024)**
 
 System Design
 
@@ -205,7 +205,7 @@ Daily Schedule:
 	•	2 hours: Review heap and priority queue concepts.
 	•	1-2 hours: Solve additional DSA problems or review.
 
-Week 4 (November 4 - November 10, 2024)
+**Week 4 (November 4 - November 10, 2024)**
 
 System Design
 
@@ -262,7 +262,7 @@ Daily Schedule:
 	•	2 hours: Review DP concepts and patterns.
 	•	1-2 hours: Solve additional DP problems or review.
 
-Week 5 (November 11 - November 17, 2024)
+**Week 5 (November 11 - November 17, 2024)**
 
 System Design
 
@@ -329,7 +329,7 @@ Daily Schedule:
 	•	2 hours: Review graph algorithms.
 	•	1-2 hours: Solve additional DSA problems or review.
 
-Week 6 (November 18 - November 24, 2024)
+**Week 6 (November 18 - November 24, 2024)**
 
 System Design
 
@@ -396,7 +396,7 @@ Daily Schedule:
 	•	2 hours: Review backtracking and recursion techniques.
 	•	1-2 hours: Solve additional DSA problems or review.
 
-Week 7 (November 25 - December 1, 2024)
+**Week 7 (November 25 - December 1, 2024)**
 
 System Design
 
@@ -453,7 +453,7 @@ Daily Schedule:
 	•	2 hours: Review any weak areas in DSA.
 	•	1-2 hours: Finalize low-level design understanding.
 
-Week 8 (December 2 - December 8, 2024)
+**Week 8 (December 2 - December 8, 2024)**
 
 System Design & Low-Level Design
 
