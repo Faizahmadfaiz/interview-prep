@@ -24,7 +24,6 @@ visa
 
 cisco
 
-Sure! Here’s the plan with the date ranges added, assuming you start on Monday, October 14th, 2024:
 
 Week 1 (October 14 - October 20, 2024)
 
